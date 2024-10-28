@@ -1,0 +1,24 @@
+# Projet MOBG5
+Ce dépôt contient les sources du projet <CulteJapan>.
+
+## Description
+L'application doit permettre de rechercher dans une liste des mangas et d'animes et de voir différentes informations les concernants.
+ Il est possible de rajouter des animes et des mangas dans une liste personnelle.
+ L'utilisateur peut personnaliser son compte pour avoir une vue de la page home personnalisée.
+Lien vers le WireFrame en ligne: https://wireframe.cc/pro/pp/d799548b5730089
+
+## Persistance des données
+L'application conserve les informations de l'utilisateur, listes personnelles, ... 
+Cet historique est persisté dans la base de données locale de l'application.
+Les données relatives aux comptes utilisateurs, aux listes personnelles sont persistées via firebase : <url du projet firebase>
+
+## Backend
+L'application mobile appelle via des services web le backend REST. Les sources sont disponibles sur le dépôt <url du dépôt du backend>.
+
+## Service rest
+Pour collecter les données relatives aux produits, des appels au service rest suivant sont effectués : https://myanimelist.net/apiconfig/references/api/v2 ou https://docs.api.jikan.moe/ qui est un scrap du site "MyAnimeList.net"
+
+## Auteur
+**Nicolas Tassenoey** G57618
+
+

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CulteJapan</string>
+
+    //Placeholder Field
+    <string name="placeholder_field_email">Email</string>
+    <string name="placeholder_field_password">Password</string>
+
+    //Buttons
+    <string name="button_login">Login</string>
+    <string name="button_sign">Sign Up</string>
+
+    //Description
+    <string name="description_icon_logout">Logout User</string>
+    <string name="description_icon_Settings">Settings User</string>
+
+</resources>
