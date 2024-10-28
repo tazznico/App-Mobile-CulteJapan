@@ -4,15 +4,15 @@ Application mobile
 ## Images
 - image de l'acceuil:
   
-![alt text]()
+![alt text](https://github.com/tazznico/App-Mobile-CulteJapan/blob/main/Images/acceuil_anime.jpg)
 
 - image des détail d'un anime:
 
-![alt text]()
+![alt text](https://github.com/tazznico/App-Mobile-CulteJapan/blob/main/Images/d%C3%A9tails_anime.jpg)
 
 - image d'un partage d'une liste d'animes:
 
-![alt text]()
+![alt text](https://github.com/tazznico/App-Mobile-CulteJapan/blob/main/Images/partage_list_animes.jpg)
 
 ## Description
 Projet d'application mobile du début de troisième année portant sur gestion des animés provenant de l'API myanimelist
